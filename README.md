@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7edea&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc52c&size=36&center=true&vCenter=true&width=1000&lines=Hello,+World!+I'm+Jeff+:%29;I'm+a+Full-Stack+Web+Developer+and;I'm+graduating+in+Systems+Analysis+and+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc52c&size=36&center=true&vCenter=true&width=1000&lines=Hello,+World!+I'm+Jeff+:%29,;a+Full-Stack+Web+Developer+with;a+degree+in+Analysis+and+Systems+Development.)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/ojeff-dev">
