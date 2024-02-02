@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7edea&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc52c&size=36&center=true&vCenter=true&width=1000&lines="Hello,+New+world,+all+the+boys+and+girls"+♫♫;Chamo-me+Jefferson+dos+Santos;ou+apenas+Jeff+:%29;Resido+em+Rio+de+Janeiro,+Brasil;Sou+graduando+em+Análise+de+Sistemas;e+também+estudo+desenvolvimento+Web+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc52c&size=36&center=true&vCenter=true&width=1000&lines=Hello,+World!+I'm+Jeff+:%29;I'm+a+Full-Stack+Web+Developer+and;I'm+graduating+in+Systems+Analysis+and+Development)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/ojeff-dev">
@@ -27,7 +27,11 @@
   <a href = "mailto:jeff-ds@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ojefferson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/ojeff-dev/ojeff-dev/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ojeff-dev/ojeff-dev/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ojeff-dev/ojeff-dev/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </div>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7edea&height=120&section=footer"/>
